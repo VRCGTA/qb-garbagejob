@@ -12,7 +12,7 @@ Config.GiveCryptoStick = true
 Config.CryptoStickChance = 75
 
 -- How many stops minimum should the job roll?
-Config.MinStops = 5
+Config.MinStops = 1
 
 -- Upper worth per bag
 Config.BagUpperWorth = 100
